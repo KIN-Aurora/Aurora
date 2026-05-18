@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KIN-Aurora/Aurora/refs/heads/main/Aurora_Loader"))()
